@@ -59,12 +59,6 @@ Currently exploring **Generative AI, Groq Whisper/Llama, Canvas & WebCodecs, and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSRC12&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🤝 Let's Connect
-
-- 💬 Ask me about: AI video generation, audio processing, Electron apps, creative automation
-- 🌱 Currently learning: advanced RAG, real-time AV pipelines, motion graphics at scale
-- 📫 Reach me: open an issue on any repo or find me on GitHub [@IamSRC12](https://github.com/IamSRC12)
-
 ---
 
 <p align="center"><i>“Tech, AI and music — building tools that turn ideas into reality.”</i></p>
