@@ -42,7 +42,6 @@ Currently exploring **Generative AI, Groq Whisper/Llama, Canvas & WebCodecs, and
 | [**CutlineStudio**](https://github.com/IamSRC12/CutlineStudio) | Sample-accurate web DAW — multi-track trimming, waveform editing & lyric alignment | Next.js, TypeScript, Drizzle |
 | [**ai-lyric-video-generator**](https://github.com/IamSRC12/ai-lyric-video-generator) | Auto-synced lyric video studio with 1080p60 WebCodecs export | Next.js, Groq Whisper, Canvas |
 | [**Audio-Lyric-Splitter**](https://github.com/IamSRC12/Audio-Lyric-Splitter) | Separate vocals & auto-align lyrics in the browser | JavaScript, Groq, Web Audio |
-| [**Computer-Vision**](https://github.com/IamSRC12/Computer-Vision) | Gesture-to-mouse control via hand tracking | Python, MediaPipe, OpenCV |
 | [**AI-Filter**](https://github.com/IamSRC12/AI-Filter) | Real-time AI art-style filters (anime, Pixar, Ghibli) | React, Python, OpenCV, ONNX |
 
 > Browse all projects in [my repositories](https://github.com/IamSRC12?tab=repositories).
