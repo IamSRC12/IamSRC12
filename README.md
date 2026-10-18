@@ -14,9 +14,9 @@
 
 ### 🔭 What I Build
 
-- **AI Creative Studios** — Auto-synced lyric videos, audio lyric splitting, AI filters & visual effects
+- **AI Creative Studios** — auto-synced lyric videos, audio lyric splitting, AI filters & visual effects
 - **Desktop & Utilities** — Electron apps, file automation, media converters, productivity tools
-- **Computer Vision & Audio** — Gesture control, real-time filters, audio processing pipelines
+- **Computer Vision & Audio** — gesture control, real-time filters, audio processing pipelines
 
 Currently exploring **Generative AI, Groq Whisper/Llama, Canvas & WebCodecs, and Electron**.
 
@@ -31,7 +31,7 @@ Currently exploring **Generative AI, Groq Whisper/Llama, Canvas & WebCodecs, and
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F277?style=flat-square&logo=drizzle&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F277?style=flat-square&logoColor=black)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
@@ -39,15 +39,14 @@ Currently exploring **Generative AI, Groq Whisper/Llama, Canvas & WebCodecs, and
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**CutlineStudio**](https://github.com/IamSRC12/CutlineStudio) | Pro-grade editor / studio app | Next.js 16, TypeScript, Drizzle |
-| [**ai-lyric-video-generator**](https://github.com/IamSRC12/ai-lyric-video-generator) | AI auto-synced lyric video studio (LyricForge) | Next.js, Groq Whisper, Canvas, WebCodecs |
-| [**SecureVault**](https://github.com/IamSRC12/SecureVault) | Encrypted vault + browser extension | Electron, TypeScript |
-| [**Audio-Lyric-Splitter**](https://github.com/IamSRC12/Audio-Lyric-Splitter) | Separate vocals & align lyrics | JS, Groq API, Audio Processing |
-| [**Computer-Vision**](https://github.com/IamSRC12/Computer-Vision) | Gesture mouse via hand tracking | Python, MediaPipe |
-| [**YouTube-Downloader**](https://github.com/IamSRC12/YouTube-Downloader) | Fast YouTube downloader desktop app | Electron, Node.js |
-| [**What-If-World**](https://github.com/IamSRC12/What-If-World) | Interactive alternate-history explorer | TypeScript, Next.js |
+| [**CutlineStudio**](https://github.com/IamSRC12/CutlineStudio) | Sample-accurate web DAW — multi-track trimming, waveform editing & lyric alignment | Next.js, TypeScript, Drizzle |
+| [**ai-lyric-video-generator**](https://github.com/IamSRC12/ai-lyric-video-generator) | Auto-synced lyric video studio with 1080p60 WebCodecs export | Next.js, Groq Whisper, Canvas |
+| [**SecureVault**](https://github.com/IamSRC12/SecureVault) | Zero-knowledge encrypted vault + browser extension | Electron, TypeScript, Web Crypto |
+| [**Audio-Lyric-Splitter**](https://github.com/IamSRC12/Audio-Lyric-Splitter) | Separate vocals & auto-align lyrics in the browser | JavaScript, Groq, Web Audio |
+| [**Computer-Vision**](https://github.com/IamSRC12/Computer-Vision) | Gesture-to-mouse control via hand tracking | Python, MediaPipe, OpenCV |
+| [**AI-Filter**](https://github.com/IamSRC12/AI-Filter) | Real-time AI art-style filters (anime, Pixar, Ghibli) | React, Python, OpenCV, ONNX |
 
-> 📌 **Pinned tip:** Pin your top 6 repos above on your profile (Profile → Customize pins) so visitors see your best work first.
+> Browse all projects in [my repositories](https://github.com/IamSRC12?tab=repositories).
 
 ### 📊 GitHub Stats
 
@@ -63,8 +62,8 @@ Currently exploring **Generative AI, Groq Whisper/Llama, Canvas & WebCodecs, and
 ### 🤝 Let's Connect
 
 - 💬 Ask me about: AI video generation, audio processing, Electron apps, creative automation
-- 🌱 Currently learning: Advanced RAG, real-time AV pipelines, motion graphics at scale
-- 📫 Reach me: Open an issue on any repo or find me on GitHub [@IamSRC12](https://github.com/IamSRC12)
+- 🌱 Currently learning: advanced RAG, real-time AV pipelines, motion graphics at scale
+- 📫 Reach me: open an issue on any repo or find me on GitHub [@IamSRC12](https://github.com/IamSRC12)
 
 ---
 
